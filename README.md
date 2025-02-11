@@ -1,0 +1,3 @@
+Project Title: E-Commerce Sales Dashboard Using Power BI
+
+This project involves creating an interactive Power BI dashboard to analyze e-commerce sales performance. Using a dataset containing order details, customer demographics, product categories, and sales trends, I designed visualizations to track key metrics such as total revenue, profit margins, top-selling products, and regional sales distribution. The dashboard includes dynamic filters, drill-through features, and trend analysis to provide actionable insights for business decision-making. This project showcases my ability to transform raw data into meaningful visual insights using Power BI.
